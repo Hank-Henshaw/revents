@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, Modal } from 'semantic-ui-react';
+import { Container } from 'semantic-ui-react';
 import NavBar from './../../features/nav/NavBar';
 import { Route, useLocation } from 'react-router-dom';
 import HomePage from '../../features/home/HomePage';
